@@ -1,0 +1,11 @@
+2020-05-11 00:59:47.532  INFO 8880 --- [main] com.nowcoder.community.LoggerTest        : Starting LoggerTest on DESKTOP-3N59RFM with PID 8880 (started by ThinkPad in E:\nowcode\WorkSpace\community)
+2020-05-11 00:59:47.535 DEBUG 8880 --- [main] com.nowcoder.community.LoggerTest        : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-11 00:59:47.536  INFO 8880 --- [main] com.nowcoder.community.LoggerTest        : No active profile set, falling back to default profiles: default
+2020-05-11 00:59:50.674  INFO 8880 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-11 00:59:50.852  INFO 8880 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-11 00:59:51.425  INFO 8880 --- [main] com.nowcoder.community.LoggerTest        : Started LoggerTest in 4.593 seconds (JVM running for 6.616)
+2020-05-11 00:59:52.207 DEBUG 8880 --- [main] com.nowcoder.community.LoggerTest        : debug log
+2020-05-11 00:59:52.208  INFO 8880 --- [main] com.nowcoder.community.LoggerTest        : info log
+2020-05-11 00:59:52.208  WARN 8880 --- [main] com.nowcoder.community.LoggerTest        : warn log
+2020-05-11 00:59:52.208 ERROR 8880 --- [main] com.nowcoder.community.LoggerTest        : error log
+2020-05-11 00:59:52.240  INFO 8880 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
